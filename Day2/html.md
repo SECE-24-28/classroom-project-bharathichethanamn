@@ -1,0 +1,1 @@
+Hypertext - link one text to another just like hyper link mark to -tag or annotation we use to gibe to a set o text some meaning or structure mark -up language -a set of rules thate need to following order to get defined markup in browser or processors
