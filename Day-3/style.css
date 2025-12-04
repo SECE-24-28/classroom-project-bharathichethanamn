@@ -1,0 +1,24 @@
+#demo{
+    background-color: blue;
+    color:wheat;
+}
+.container{
+    height:50vh;
+    border:3px solid red;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    row-gap: 5px;
+    column-gap:30px;
+    flex-wrap: wrap;
+    flex-direction: row;             
+    background-color: skyblue;
+}
+.box{
+    height:80px;
+    width:80px;
+    background-color: purple;
+    color:white;
+    border:2px solid black;
+}
